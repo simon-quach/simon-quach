@@ -17,4 +17,4 @@ I'm Simon, a 1st-year Mathematics student at Orange Coast College. I am seeking 
 - Hackathons
 
 ### 📫 Reach me here: ...
-- (LinkIn)[https://www.linkedin.com/in/simonquach04/]
+- [LinkedIn](https://www.linkedin.com/in/simonquach04/)
