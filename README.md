@@ -21,4 +21,4 @@ I'm Simon, a 1st-year Mathematics student at Orange Coast College. I am expected
 
 ### 📫 Reach me here: ...
 - [LinkedIn](https://www.linkedin.com/in/simonquach04/)
-- Email - simonquach.tech@gmail.com
+- Email: simonquach.tech@gmail.com
