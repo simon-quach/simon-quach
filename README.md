@@ -16,5 +16,9 @@ I'm Simon, a 1st-year Mathematics student at Orange Coast College. I am expected
 - Fun personal projects!
 - Hackathons
 
+### 🌟 I’m interested in ...
+- Producing music (Check out my [Spotify](https://open.spotify.com/artist/3SMVcm2yTCliC2bm6hSdFr?si=9sxQUBFlQq2jJxI95Z9Oag) and [Youtube](https://youtube.com/c/tropistact))
+
 ### 📫 Reach me here: ...
 - [LinkedIn](https://www.linkedin.com/in/simonquach04/)
+- Email - simonquach.tech@gmail.com
