@@ -3,7 +3,7 @@
 I'm Simon, a 1st-year Mathematics student at Orange Coast College. I am expected to transfer to a four year university for Fall 2023! Seeking Software Engineering internship positions for Summer 2023. Here's some more information about me!
 
 ### 🔭 I’m currently working on ...
-- (Group Groove)[https://github.com/simon-quach/group-groove], a music queue that is determined by the crowd.
+- [Group Groove](https://github.com/simon-quach/group-groove), a music queue that is determined by the crowd.
 - Personal portfolio website
 
 ### 🌱 I’m currently learning ...
