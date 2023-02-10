@@ -3,7 +3,7 @@
 I'm Simon, a 1st-year Mathematics student at Orange Coast College. I am expected to transfer to a four year university for Fall 2023! Seeking Software Engineering internship positions for Summer 2023. Here's some more information about me!
 
 ### 🔭 I’m currently working on:
-- Personal portfolio website
+- Refining projects
 
 ### 🌱 I’m currently learning:
 - NextJS
