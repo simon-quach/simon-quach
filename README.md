@@ -10,7 +10,7 @@ I'm Simon, a 1st-year Mathematics student at Orange Coast College. I am expected
 - Redux
 - TypeScript
 - Data Structures/Algorithms
-- GraphQL
+- Machine Learning with scikit-learn
 
 ### 👯 I’m looking to collaborate on:
 - Fun personal projects!
