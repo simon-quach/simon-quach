@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Simon, a rising 2nd year at University of California San Diego. Here's some more information about me!
+I'm Simon, a rising 2nd year at the University of California San Diego. Here's some more information about me!
 
 ### 🔭 I’m currently working on:
 - Refining projects
