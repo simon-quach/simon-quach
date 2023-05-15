@@ -7,10 +7,8 @@ I'm Simon, a rising 2nd year at the University of California San Diego. Here's s
 
 ### 🌱 I’m currently learning:
 - NextJS
-- Redux
 - TypeScript
 - Data Structures/Algorithms
-- scikit-learn
 
 ### 👯 I’m looking to collaborate on:
 - Fun personal projects!
