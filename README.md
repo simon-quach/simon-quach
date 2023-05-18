@@ -22,4 +22,4 @@ I'm Simon, a rising 2nd year at the University of California San Diego. Here's s
 
 ### 📫 Reach me here:
 - [LinkedIn](https://www.linkedin.com/in/simon-quach/)
-- Email: simonquach.tech@gmail.com
+- Email: siquach@ucsd.edu
