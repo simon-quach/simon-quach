@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I'm Simon, a rising 2nd year at the University of California, San Diego. Here's some more information about me!
+I'm Simon, a junior at the University of California, San Diego. Here's some more information about me!
 
 ### 🔭 I’m currently working on:
 - Refining projects
 
 ### 🌱 I’m currently learning:
-- NextJS
 - TypeScript
-- Data Structures/Algorithms
 
 ### 👯 I’m looking to collaborate on:
 - Fun personal projects!
