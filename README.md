@@ -3,10 +3,11 @@
 I'm Simon, a junior at the University of California, San Diego. Here's some more information about me!
 
 ### 🔭 I’m currently working on:
-- Refining projects
+- Personal project
 
 ### 🌱 I’m currently learning:
 - TypeScript
+- FastAPI
 
 ### 👯 I’m looking to collaborate on:
 - Fun personal projects!
