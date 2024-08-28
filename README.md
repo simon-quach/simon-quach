@@ -2,6 +2,8 @@
 
 I'm Simon, a junior at the University of California, San Diego. Here's some more information about me!
 
+[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simon-quach)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🔭 I’m currently working on:
 - Personal project
 
